@@ -27,7 +27,7 @@
 - Spring web
 - Lombok - use to avoid boilerplate code
   - `eg:- constructors,getter,setter,toString,etc...`
-  - [More details](https://youtu.be/8miKAvf9UaI?si=JtTVxHCNKXNwIeja)
+  - [More details](https://youtu.be/ftKBLu47u_U?si=_vgHz8lriOYjHQhq)
 - MySQL Driver
 - Spring Data JPA
 
